@@ -1,0 +1,52 @@
+# Core data science libraries
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning libraries
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Additional ML libraries
+xgboost>=1.5.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+
+# Deep learning (optional)
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Image processing (for drawing analysis)
+opencv-python>=4.5.0
+Pillow>=8.3.0
+
+# Statistical analysis
+statsmodels>=0.13.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data visualization
+plotly>=5.0.0
+bokeh>=2.4.0
+
+# Utilities
+tqdm>=4.62.0
+joblib>=1.1.0
+
+# Optional: For advanced feature extraction
+librosa>=0.9.0
+pywt>=1.2.0
+
+# Optional: For data augmentation
+imgaug>=0.4.0
+
+# Optional: For model interpretation
+shap>=0.40.0
+lime>=0.2.0
+
+# Optional: For hyperparameter tuning
+optuna>=2.10.0
+hyperopt>=0.2.7 
